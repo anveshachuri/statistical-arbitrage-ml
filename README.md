@@ -63,11 +63,7 @@ Designed for **academic research**.
 /
 ├── StatArb_MLproject.ipynb                      # Complete unified workflow
 ├── data/                               # Price data + intermediate CSVs
-├── ml_model_metrics.csv
-├── ml_strategy_results.csv
-├── baseline_strategy_results.csv
-├── overall_strategy_comparison.png
-├── statistical_validation.png
+├── plots/
 ├── README.md
 ├── .gitignore
 └── LICENSE
